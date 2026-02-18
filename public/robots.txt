@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
-Sitemap: https://alaskacg.github.io/alaska-oil-company/sitemap.xml
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+Sitemap: https://alaskaoilcompany.com/sitemap.xml
